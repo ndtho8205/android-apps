@@ -1,10 +1,7 @@
 <resources>
     <string name="app_name">About Me</string>
-    <string name="tv_name_text">Tho Nguyen</string>
-    <string name="iv_yellow_star_description">yellow star</string>
-    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed tortor eget dui viverra pellentesque. Quisque semper a quam nec lacinia. Cras finibus mauris sed fermentum accumsan. Sed nec tellus dapibus lectus imperdiet convallis a vitae leo. Pellentesque in lacinia arcu. Morbi quis enim eu nisl fermentum sagittis vitae in dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque in odio id nunc vulputate elementum. Ut mollis neque nulla, eu cursus turpis molestie et. Sed at nibh quis velit pellentesque viverra. Nulla ante sapien, ultrices porta magna at, imperdiet elementum velit. Aliquam ultricies purus sapien, aliquam cursus nibh tincidunt non. Integer ac libero ornare, luctus urna a, ornare dui. Vestibulum quis nunc maximus, volutpat erat eu, auctor odio. Etiam a dapibus nunc, congue ultrices risus. Nam lobortis et sapien nec fringilla. \n
-        Duis ex orci, consectetur ac cursus eget, maximus eget leo. Aliquam rutrum dolor in diam egestas, sed egestas massa laoreet. Aenean ornare ex sed ipsum accumsan blandit. Nulla facilisi. Proin maximus vitae ipsum quis auctor. In ut felis commodo, volutpat purus quis, tincidunt sapien. Proin euismod tincidunt orci. Nullam iaculis ornare vulputate. Phasellus sed porta lorem. Aenean dictum mauris non mi venenatis facilisis. Nam mattis diam neque, quis vulputate quam suscipit finibus. \n
-        Morbi lacus enim, tincidunt in tellus sit amet, ultrices feugiat purus. Etiam vehicula commodo odio, vitae finibus risus volutpat eget. Quisque dapibus libero ut lectus faucibus, id molestie mi laoreet. Cras leo nulla, suscipit in maximus in, semper eu eros. Nulla non leo sem. Nulla eget vulputate velit, et cursus eros. Suspendisse dolor purus, efficitur sed gravida at, auctor at ex. Suspendisse potenti. Sed ac malesuada ante, id imperdiet nibh.</string>
+
+    <string name="iv_yellow_star_description">Yellow star</string>
     <string name="et_nickname_hint">What is your nickname?</string>
     <string name="btn_nickname_text">Done</string>
 </resources>

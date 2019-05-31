@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DiceRoller</string>
+    <string name="app_name">Dice Roller</string>
     <string name="iv_dice_description">Dice</string>
     <string name="btn_roll_text">Roll</string>
 </resources>

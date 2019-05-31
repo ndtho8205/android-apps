@@ -8,10 +8,17 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="NameStyle">
+    <style name="TextStyle">
         <item name="android:fontFamily">@font/roboto</item>
         <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="NameStyle" parent="TextStyle">
         <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ContentStyle">
+        <item name="android:textColor">@android:color/black</item>
     </style>
 
 
