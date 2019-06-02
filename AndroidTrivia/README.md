@@ -2,4 +2,5 @@
 
 - Android Navigation
 
-<img src="./screenshot.png" width="480" />
+<img src="./screenshots/main.png" width="360" /> <img src="./screenshots/game.png" width="360" />
+<img src="./screenshots/win.png" width="360" /> <img src="./screenshots/try_again.png" width="360" />
